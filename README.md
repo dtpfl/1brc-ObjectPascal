@@ -89,7 +89,7 @@ These are the results from running all entries into the challenge on my personal
 
 | # | Result (m:s.ms): SSD | Result (m:s.ms): HDD | Compiler | Submitter     | Notes     | Certificates |
 |--:|---------------------:|---------------------:|:---------|:--------------|:----------|:-------------|
-| 1 | 0:29.212 | 2:2.504 | lazarus-trunk, fpc-trunk | Székely Balázs | Lazarus trunk. Using 16 threads | |
+| 1 | 0:29.212 | 2:2.504 | lazarus-trunk, fpc-trunk | Székely Balázs | Using 16 threads | |
 
 ## Evaluating Results
 Each contender is run 10 times in a row for both `SSD` and `HDD` using `hyperfine` for the time taking. \
